@@ -1,0 +1,11 @@
+Conclusion
+Accuracy on the Training Data: 85%
+Accuracy on the Test Data: 85%
+
+AUC on the Training Data: 88%
+AUC on the Test: 87.4%
+
+Accuracy, AUC, Precision and Recall for test data is almost inline with training data.
+This proves no overfitting or underfitting has happened, and overall the model is a good model for classification
+
+FICO, term, gender and age (in same order of preference) are the most important variables in determining if a borrower will get into a delinquent stage
